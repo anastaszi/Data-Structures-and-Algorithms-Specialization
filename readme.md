@@ -17,4 +17,12 @@
 6. Last Digit of the Sum of Fibonacci Numbers
 7. Last Digit of the Sum of Fibonacci Numbers Again
 
-### [Week3]()
+### [Week3 - Greedy Algorithm]()
+
+1. Money Change
+2. Maximum Value of the Loot
+3. Car Fueling
+4. Maximum Advertisement Revenue
+5. Collecting Signatures
+6. Maximum Number of Prizes
+7. Maximum Salary
