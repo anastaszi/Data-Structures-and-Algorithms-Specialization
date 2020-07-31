@@ -17,7 +17,7 @@
 6. Last Digit of the Sum of Fibonacci Numbers
 7. Last Digit of the Sum of Fibonacci Numbers Again
 
-### [Week3 - Greedy Algorithm]()
+### [Week3 - Greedy Algorithms](https://github.com/anastaszi/Data-Structures-and-Algorithms-Specialization/tree/master/1_Toolbox/week3_greedy_algorithms)
 
 1. Money Change
 2. Maximum Value of the Loot
