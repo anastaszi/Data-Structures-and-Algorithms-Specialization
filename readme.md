@@ -27,7 +27,7 @@
 6. Maximum Number of Prizes
 7. Maximum Salary
 
-### [Week 4 - Divide-and-Conquer] (https://github.com/anastaszi/Data-Structures-and-Algorithms-Specialization/tree/master/1_Toolbox/week4_divide_and_conquer)
+### [Week 4 - Divide-and-Conquer](https://github.com/anastaszi/Data-Structures-and-Algorithms-Specialization/tree/master/1_Toolbox/week4_divide_and_conquer)
 1. Binary Search
 2. Majority Element
 3. Improving Quick Sort
